@@ -10,12 +10,12 @@ Create a conceptual diagram to have clear idea what is the primary key and forei
 There having 90,398 people who is senior born from 1952 to 1955 eligible to retired in next few years.There have 29,414 who are title on Senior Engineer is 32% of who are eligible for retirement.
 And it will have 31% (28,254 employees) who are Senior staff in below picture.
 Those people are qualify for the retirement.
-![retirement_titles](retirement_titles)
-![retiring_titles](retiring_titles)
+![retirement_titles](https://github.com/JoJofia/Pewlett-Hackard-Analysis/blob/6656e4d630cb4ea040c38eb5bbe3767d9cecda6f/Data/retirement_titles.png)
+![retiring_titles](https://github.com/JoJofia/Pewlett-Hackard-Analysis/blob/6656e4d630cb4ea040c38eb5bbe3767d9cecda6f/Data/retiring_titles.png)
 
 ## Summary: 
 Take a look with picture below. The company have total mentorship eligibility on 1549. And according to the total mentorship eligibility, senior staff who close to retirement is the largest group at this moment. 
 It has 569 emloyees will be plan on the retired. Base on the data anlysis, the company Pewlett Hackard need to hire many new generation employees will be give a support after someone retired.
 In the meantime, senior employees also can train with the new hirer. 
-![total count of mentorship](count_mentorship.png)
-![total available mentorship](total_count_on_me.png)
+![total count of mentorship](https://github.com/JoJofia/Pewlett-Hackard-Analysis/blob/6656e4d630cb4ea040c38eb5bbe3767d9cecda6f/Data/count_mentorship.png)
+![total available mentorship](thttps://github.com/JoJofia/Pewlett-Hackard-Analysis/blob/6656e4d630cb4ea040c38eb5bbe3767d9cecda6f/Data/total_count_on_me.png)
