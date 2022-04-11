@@ -18,4 +18,4 @@ Take a look with picture below. The company have total mentorship eligibility on
 It has 569 emloyees will be plan on the retired. Base on the data anlysis, the company Pewlett Hackard need to hire many new generation employees will be give a support after someone retired.
 In the meantime, senior employees also can train with the new hirer. 
 ![total count of mentorship](https://github.com/JoJofia/Pewlett-Hackard-Analysis/blob/6656e4d630cb4ea040c38eb5bbe3767d9cecda6f/Data/count_mentorship.png)
-![total available mentorship](thttps://github.com/JoJofia/Pewlett-Hackard-Analysis/blob/6656e4d630cb4ea040c38eb5bbe3767d9cecda6f/Data/total_count_on_me.png)
+![total available mentorship](https://github.com/JoJofia/Pewlett-Hackard-Analysis/blob/623eab9177d96e0fe0568ef7c557ca1d2353e44a/Data/total_count_on_me.png)
